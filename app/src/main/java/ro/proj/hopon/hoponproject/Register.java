@@ -25,7 +25,7 @@ public class Register extends Activity {
     EditText username, email, password;
     Button register;
     RequestQueue requestQueue;
-    String registerURL = "http://192.168.1.9/hopon/register.php";
+    String registerURL = "http://smartphp.byethost14.com/htdocs/register.php";
 
 
     @Override
